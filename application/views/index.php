@@ -18,47 +18,13 @@
   </head>
 
 <body>
-<section id="header_top">
- <div class="container">
-  <div class="row">
-   <div class="col-sm-12">
-    <div class="col-sm-3">
-	 <div class="header_top_1">
-	  <ul>
-	      <li><span class="p_1"><i class="fa fa-search"></i></span></li>
-		  <li><span class="p_2"><i class="fa fa-google-plus"></i></span></li>
-		  <li><span class="p_3"><i class="fa fa-twitter"></i></span></li>
-		  <li><span class="p_4"><i class="fa fa-facebook"></i></span></li>
-		  <li><span class="p_5"><i class="fa fa-youtube-play"></i></span></li>
-		  <li><span class="p_6"><i class="fa fa-linkedin"></i></span></li>
-		  <li><span class="p_7"><i class="fa fa-wifi"></i></span></li>
-	  </ul>
-	 </div>
-	</div>
-	<div class="col-sm-9">
-	 <div class="col-sm-12">
-	  <div class="col-sm-7"></div>
-	  <div class="col-sm-5">
-	   <div class="header_top_2">
-	   <ul>
-	       <li><a href="blog.php">Elementum Imperdiet (Sem!)</a></li>
-		   <li><span class="p_8"><a href="blog.php"><i class="fa fa-shopping-cart"></i></a></span></li>
-	   </ul>
-	 </div>
-	   
-	  </div>
-	 </div>
-	</div>
-   </div>
-  </div>
- </div>
-</section>
+
 <section id="header_inner">
  <div class="container">
   <div class="row">
    <div class="col-sm-12 padding_all">
     <div class="col-sm-2"></div>
-    <div class="col-sm-8 padding_all">
+
 	 <div class="header_inner_1">
 	   <ul>
 	       <li><a href="blog.php"><i class="fa fa-cubes"></i> UCSC STUDENT WELFARE SYSTEM</a></li>
@@ -66,7 +32,7 @@
 
 	   </ul>
 	 </div>
-	</div>
+
 	<div class="col-sm-2"></div>
    </div>
   </div>
@@ -90,19 +56,9 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
 			    <li class="active_1"><a href="index.php">Home</a></li>
-                <li><a href="blog.php">Blog</a></li>
-				<li><a href="../../details.html">Details</a></li>
-				<li><a href="pages.php">Pages</a></li>
-				<li><a href="contact.php">Contact</a></li>
-				<li class="dropdown"><a href="blog.php" class="dropdown-toggle" data-toggle="dropdown"></span>Dropdown<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li class="t_1"><a href="blog.php">Action</a></li>
-                        <li class="t_1"><a href="blog.php">Another action</a></li>
-                        <li class="t_1"><a href="blog.php">Something else here</a></li>
-                        <li class="t_1"><a href="blog.php">Separated link</a></li>
-                        <li><a href="blog.php">One more separated link</a></li>
-                    </ul>
-                </li>
+                <li><a href="blog.php">SCHOLARSHIPS</a></li>
+				<li><a href="../../details.html">FORUM</a></li>
+
             </ul>
         </div>
     </nav>
@@ -160,50 +116,30 @@
 </section>
 <section id="middle">
  <div class="container">
-  <div class="row">
-   <div class="col-sm-12 padding_all">
-    <div class="middle_inner clearfix">
-	 <div class="col-sm-10 padding_all">
-	 <div class="middle_1">
-	  <h4>Sed Dignissim Lacinia <span class="k_1"><a href="blog.php">Conubia Nostra</a></span> + Torquent <span class="k_1"><a href="blog.php">Elementum</a></span> and <span class="k_1"><a href="blog.php"> Nunc </a></span>Fusce!</h4>
-	 </div>
-	</div>
-	<div class="col-sm-2">
-	 <div class="middle_2">
-	  <p><a href="blog.php"> Read Now!</a></p>
-	 </div>
-	</div>
-	</div>
-   </div>
+
    <div class="col-sm-12">
-    <div class="col-sm-3">
+    <div class="col-sm-4">
 	 <div class="middle_3">
-	  <h4><i class="fa fa-book"></i> Fusce Nec </h4>
+	  <h4><i class="fa fa-book"></i>UCSC</h4>
 	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odionec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
 	  <h6><a href="blog.php">| Read More</a></h6>
 	 </div>
 	</div>
-	<div class="col-sm-3">
+	<div class="col-sm-4">
 	 <div class="middle_3">
-	  <h4><i class="fa fa-pie-chart"></i> Dignissim </h4>
+	  <h4><i class="fa fa-pie-chart"></i> OUR MOTIVES</h4>
 	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odionec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
 	  <h6><a href="blog.php">| Read More</a></h6>
 	 </div>
 	</div>
-	<div class="col-sm-3">
+	<div class="col-sm-4">
 	 <div class="middle_3">
-	  <h4><i class="fa fa-compass"></i> Vestibulum</h4>
+	  <h4><i class="fa fa-compass"></i> FOR YOU</h4>
 	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odionec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
 	  <h6><a href="blog.php">| Read More</a></h6>
 	 </div>
 	</div>
-	<div class="col-sm-3">
-	 <div class="middle_3">
-	  <h4><i class="fa fa-contao"></i> Adipiscing</h4>
-	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odionec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
-	  <h6><a href="blog.php">| Read More</a></h6>
-	 </div>
-	</div>
+	
    </div>
    <div class="col-sm-12 clearfix">
     <div class="middle_2 clearfix">
